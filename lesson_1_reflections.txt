@@ -1,0 +1,17 @@
+1 ¿Como es que el ver dos versiones diferentes de un archivo te ayudan a visualizar un error escrito?
+R\  Sirven de mucho, de hecho permite llevar control de versiones de software, esto conlleva ver los errores en tu codigo.
+
+2. ¿Como el tener acceso a tu historial completo de un archivo te hace mas eficiente como programador alargo término.?
+R\Definitivamente, ayuda ya que puedas llevar tus versiones de manera controlada y eficiente
+
+3. Cuales crees que sean los pros y los contras a elegir, cuando hacer un commint de forma manual (como lo haces con git), contra que los cambios se hagan de forma automatica (como googledoc lo hace)?
+R\ es ideal llevar un cambio que uno como usuario realiza, considero importante como programador llevar el control manual y no automatico.
+
+4. Porque crees que algunos sistemas de control de versiones permite guardar los cambios multiples archivos commit, mientras otros como google docs manejan cada archivo de forma separada?
+R\ Porque los sistemas de versiones tien como objetivo hacer cambisocuando el programador lo requiera, y no tan automatico como otros.
+
+5. De que manera el uso de un sistemas de control de versiones puede darte la confianza de hacer cambios en tu proyecto que podria dañar o alterar su funcionamiento?
+R\Hacer cambios innecesarios podria nomejorar la buena practica de programacion, ya que guardaria un sin de elementos que alfinal podria confundir.
+
+6.Ahora que tienes tu entorno de trabajo configurado ¿Qué te gustaría intentar hacer utilizando Git?
+R/

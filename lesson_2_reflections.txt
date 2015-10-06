@@ -1,0 +1,2 @@
+1. ¿Qué pasa cuando inicializas un repositorio?, ¿Por qué es necesario hacerlo? 
+R/ para comenzar un peroyecto, por tal razon inicializas.
