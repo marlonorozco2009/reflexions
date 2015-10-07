@@ -1,1 +1,2 @@
 ¿Por qué querrías hacer siempre tus “pull” de forma manual en lugar de que Git se mantenga actualizado y en coordinación con tu repositorio remote de forma automática? R/Lo ideal es realizarlo con el pull para controlar el proceso de nuestros ficheros.
+2. Describe las diferencias entre forks, clones y branches y di para que utilizas cada uno. R/todas permiten reaLIZAR una especie de copias de lso ficheros, forks lo hace en tu mmsma cuenta remota de hub, clone de te halas desde otro repo a tu local.
